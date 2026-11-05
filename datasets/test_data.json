@@ -54,7 +54,9 @@
     "importSourceType": "NONE"
   },
   "schema": {
-    "columns": [],
+    "columns": [
+      {"name":"whatever","type":"string"}
+    ],
     "userModified": true
   },
   "typeSystemVersion": "V2",
